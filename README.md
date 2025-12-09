@@ -1,0 +1,2 @@
+# base_memecoin_name_sniper
+base_memecoin_name_sniper
